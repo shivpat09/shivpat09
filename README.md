@@ -9,7 +9,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 **My Experiences:**
 - Skilled in the fundamentals of Algorithmic Computer Science
 - Skilled in C++, Python, HTML/CSS, JavaScript, and Java Programming
-- Leadership experience in STEM-competition teams
+- Leadership experience in STEM competition teams
 - Math and Engineering Tutor for 3+ years
 - Coded and used hardware
   - EV3, Arduino, Raspberry PI, VEX, and Spike
