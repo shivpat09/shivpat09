@@ -42,7 +42,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 ## Stats
 
-[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivpat09&theme=chartreuse-dark)](https://github.com/shivpat09/)
 
 
 ## Languages
