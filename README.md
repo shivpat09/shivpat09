@@ -29,7 +29,7 @@ Change the pixels back to 345 once the stats widgets stop working again
   - Developed a model for Object Detection using YoloV3
 - USACO
   - Division: **Gold**
-  - Ranked **605th** out of 11472 participants internationally in USACO 2024 December Contest, Bronze
+  - Ranked **605th** out of 2461 participants internationally in USACO 2025 US Open Contest, Bronze
   - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
 - CodeForces
   - Rating: **1967**
