@@ -27,7 +27,8 @@ Change the pixels back to 345 once the stats widgets stop working again
 - ML Researcher
   - Used LSTM and Deep Learning to develop an Outbreak Progression Predictor
   - Developed a model for Object Detection using YoloV3
-- USACO Gold
+- USACO
+  - Division: **Gold**
   - Ranked **605th** out of 11472 participants internationally in USACO 2024 December Contest, Bronze
   - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
 - CodeForces
