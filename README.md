@@ -21,7 +21,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Former Team Captain for a First Lego League Robotics Team
   - Qualified for World Festivals
 - Science Olympiad
-  - Vice President of a T50 Nationally-Ranked SciOly Team
+  - Vice President of a T10 Statewide-Ranked SciOly Team
   - 3rd Year member for Varsity Team
   - Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
 - ML Researcher
