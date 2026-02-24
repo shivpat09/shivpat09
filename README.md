@@ -29,11 +29,13 @@ Change the pixels back to 345 once the stats widgets stop working again
 - ML Researcher
   - Used LSTM and Deep Learning to develop an Outbreak Progression Predictor
   - Developed a model for Object Detection using YoloV3
-- USACO/Codeforces
+- USACO
   - Division: **Platinum**
   - Ranked **589th** out of 2461 participants internationally in USACO 2025 US Open Contest, Bronze
   - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
-  - Codeforces Rating: **Candidate Master**
+- Codeforces
+  - Elo: **2387**
+  - Titled Rank: **International Master**
 
 
 **Current Status:**
