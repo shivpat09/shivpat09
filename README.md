@@ -33,9 +33,6 @@ Change the pixels back to 345 once the stats widgets stop working again
   - Division: **Platinum**
   - Ranked **585th** out of 2461 participants internationally in USACO 2025 US Open Contest, Bronze
   - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
-- Codeforces
-  - Elo: **2387**
-  - Titled Rank: **International Master**
 
 
 **Current Status:**
