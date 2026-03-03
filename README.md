@@ -31,9 +31,9 @@ Change the pixels back to 345 once the stats widgets stop working again
   - Developed a model for Object Detection using YoloV3
 - USACO
   - Division: **Platinum**
-  - Ranked **585th** out of 2461 participants internationally in USACO 2025 US Open Contest, Bronze
-  - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
   - Ranked **1st** out of 1245 participants internationally in USACO 2026 Third Contest, Gold
+  - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
+  - Ranked **585th** out of 2461 participants internationally in USACO 2025 US Open Contest, Bronze
 
 
 **Current Status:**
