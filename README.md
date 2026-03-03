@@ -40,7 +40,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Expanding on Machine Learning
 - Developing more projects (i.e. websites)
 - Coding applications on many platforms
-- Currently looking into ML and projects
+- Currently developing and looking into projects
 
 ## Stats
 
