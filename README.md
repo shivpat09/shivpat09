@@ -24,8 +24,8 @@ Change the pixels back to 345 once the stats widgets stop working again
   - Vice President of a T10 Statewide-Ranked SciOly Team
   - 3rd Year member for Varsity Team
   - Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
-  - Total Medal Count: **21**
-    - 5x Medalist at Norcal States, 5x Medalist at Bay Area Regionals, 11x Medalist at Invitationals
+  - Total Medal Count: **23**
+    - 5x Medalist at Norcal States, 5x Medalist at Bay Area Regionals, 13x Medalist at Invitationals
 - ML Researcher
   - Used LSTM and Deep Learning to develop an Outbreak Progression Predictor
   - Developed a model for Object Detection using YoloV3
@@ -33,6 +33,7 @@ Change the pixels back to 345 once the stats widgets stop working again
   - Division: **Platinum**
   - Ranked **585th** out of 2461 participants internationally in USACO 2025 US Open Contest, Bronze
   - Ranked **1st** out of 3876 participants internationally in USACO 2026 First Contest, Silver
+  - Ranked **1st** out of 1245 participants internationally in USACO 2026 Third Contest, Gold
 
 
 **Current Status:**
