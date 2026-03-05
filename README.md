@@ -66,6 +66,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 [![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:shivenpatel399@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivpat_/)
 [![Facebook](https://img.shields.io/badge/-Facebook-FE7A16?logo=Facebook&logoColor=white)](https://www.facebook.com/ShivPat09/)
+![](https://komarev.com/ghpvc/?username=shivpat09&abbreviated=true)
 
 
 <!---
