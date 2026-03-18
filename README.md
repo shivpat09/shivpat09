@@ -18,8 +18,6 @@ Change the pixels back to 345 once the stats widgets stop working again
   - AHS Science Olympiad Website
 
 **My Achievements:**
-- Former Team Captain for a First Lego League Robotics Team
-  - Qualified for World Festivals
 - Science Olympiad
   - Vice President of a T10 Statewide-Ranked SciOly Team
   - 3rd Year member for Varsity Team
