@@ -22,8 +22,8 @@ Change the pixels back to 345 once the stats widgets stop working again
   - Vice President of a T10 Statewide-Ranked SciOly Team
   - 3rd Year member for Varsity Team
   - Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
-  - Total Medal Count: **52**
-    - 9x Medalist at Norcal States, 10x Medalist at Bay Area Regionals, 33x Medalist at Invitationals
+  - Total Medal Count: **36**
+    - 6x Medalist at Norcal States, 8x Medalist at Bay Area Regionals, 22x Medalist at Invitationals
 - ML Researcher
   - Used LSTM and Deep Learning to develop an Outbreak Progression Predictor
   - Developed a model for Object Detection using YoloV3
