@@ -19,8 +19,8 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 **My Achievements:**
 - Science Olympiad
-  - Vice President of a T10 Statewide-Ranked SciOly Team
-  - 3rd Year member for Varsity Team
+  - President of a T10 Statewide-Ranked SciOly Team
+  - 4th Year member for Varsity Team
   - Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
   - Total Medal Count: **52**
     - 8x Medalist at Norcal States, 9x Medalist at Bay Area Regionals, 35x Medalist at Invitationals
