@@ -12,7 +12,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Leadership experience in STEM competition teams
 - Math and Engineering Tutor for 3+ years
 - Coded and used hardware
-  - EV3, Arduino, Raspberry PI, VEX, and Spike
+  - EV3, Arduino, VEX, and Spike
 - Developed applications and websites
   - Discord Applications for Science Olympiad
   - AHS Science Olympiad Website
